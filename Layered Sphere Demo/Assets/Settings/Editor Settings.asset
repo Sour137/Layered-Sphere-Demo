@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ff2c702115ab6a4ea85b81171974f58, type: 3}
+  m_Name: Editor Settings
+  m_EditorClassIdentifier: 
+  worldSeed: 0
+  randomize: 1
+  debugPositions: 1
+  smootheNormals: 1
+  nSize: 4
+  smoothingPasses: 1
+  percentOcean: 0.731
+  layers: 124
+  terrainDelta: 150
+  elevScale: 5
+  radius: 10
+  polarBuffer: 30
+  sealevelOffset: 0.12
+  geoProvinceScale: 0.25
+  geoProvinceThreshold: 0.5
+  maxCratonArea: 0
+  biogeographicScore: 0.49
+  deltaFlat: 150
+  deltaHill: 300
